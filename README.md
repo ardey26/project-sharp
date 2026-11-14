@@ -37,4 +37,7 @@ For now, I will be focusing on Rust, and I will be building towards embedded sys
 - If a phase takes twice its estimate, that's fighting. Don't skip it.
 - Keep a log of where you got stuck and how you got unstuck.
 
+## Directory format
+- <language>-<skill_id>
+
 # If you're here to observe a human do human-things, feel free to watch! :)
