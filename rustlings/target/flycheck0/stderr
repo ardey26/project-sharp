@@ -4,133 +4,129 @@
     Blocking waiting for file lock on package cache
     Blocking waiting for file lock on build directory
     Checking exercises v0.0.0 (/Users/andeus/projects/project-sharp/rustlings)
-error: could not compile `exercises` (bin "functions4") due to 1 previous error
-warning: build failed, waiting for other jobs to finish...
 error: could not compile `exercises` (bin "tests2" test) due to 4 previous errors
-error: could not compile `exercises` (bin "hashmaps1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "strings4") due to 10 previous errors
-error: could not compile `exercises` (bin "move_semantics4" test) due to 1 previous error
-error: could not compile `exercises` (bin "tests3" test) due to 2 previous errors; 4 warnings emitted
-error: could not compile `exercises` (bin "arc1" test) due to 2 previous errors
+warning: build failed, waiting for other jobs to finish...
 error: could not compile `exercises` (bin "generics2" test) due to 2 previous errors
+error: could not compile `exercises` (bin "move_semantics4" test) due to 1 previous error
 error: could not compile `exercises` (bin "move_semantics5" test) due to 2 previous errors
-error: could not compile `exercises` (bin "generics1" test) due to 1 previous error
-error: could not compile `exercises` (bin "functions5" test) due to 1 previous error
 error: could not compile `exercises` (bin "strings3") due to 3 previous errors
-error: could not compile `exercises` (bin "move_semantics3" test) due to 1 previous error
-error: could not compile `exercises` (bin "from_into") due to 1 previous error
-error: could not compile `exercises` (bin "move_semantics1" test) due to 1 previous error
+error: could not compile `exercises` (bin "strings4") due to 10 previous errors
 error: could not compile `exercises` (bin "from_str") due to 1 previous error
-error: could not compile `exercises` (bin "modules3" test) due to 2 previous errors
+error: could not compile `exercises` (bin "generics1" test) due to 1 previous error
+error: could not compile `exercises` (bin "move_semantics3" test) due to 1 previous error
 error: could not compile `exercises` (bin "strings2") due to 1 previous error
+error: could not compile `exercises` (bin "move_semantics1" test) due to 1 previous error
 error: could not compile `exercises` (bin "move_semantics2" test) due to 1 previous error
+error: could not compile `exercises` (bin "from_into") due to 1 previous error
+error: could not compile `exercises` (bin "modules3" test) due to 2 previous errors
 error: could not compile `exercises` (bin "strings1") due to 1 previous error
-error: could not compile `exercises` (bin "modules2" test) due to 2 previous errors
-error: could not compile `exercises` (bin "vecs2") due to 1 previous error; 2 warnings emitted
-error: could not compile `exercises` (bin "macros2") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "macros4" test) due to 1 previous error
-error: could not compile `exercises` (bin "vecs1") due to 1 previous error
 error: could not compile `exercises` (bin "errors5") due to 3 previous errors
-error: could not compile `exercises` (bin "macros1") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "modules1" test) due to 1 previous error
-error: could not compile `exercises` (bin "tests1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "errors3") due to 1 previous error
+error: could not compile `exercises` (bin "macros2") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "vecs2") due to 1 previous error; 2 warnings emitted
+error: could not compile `exercises` (bin "modules2" test) due to 2 previous errors
+error: could not compile `exercises` (bin "vecs1") due to 1 previous error
 error: could not compile `exercises` (bin "lifetimes3") due to 2 previous errors
-error: could not compile `exercises` (bin "functions4" test) due to 1 previous error
-error: could not compile `exercises` (bin "lifetimes1") due to 1 previous error
-error: could not compile `exercises` (bin "lifetimes2") due to 1 previous error
+error: could not compile `exercises` (bin "errors3") due to 1 previous error
+error: could not compile `exercises` (bin "macros4" test) due to 1 previous error
+error: could not compile `exercises` (bin "modules1" test) due to 1 previous error
+error: could not compile `exercises` (bin "macros1") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "tests1" test) due to 2 previous errors
 error: could not compile `exercises` (bin "errors2") due to 1 previous error
 error: could not compile `exercises` (bin "macros3" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "iterators5") due to 2 previous errors
 error: could not compile `exercises` (bin "structs3" test) due to 4 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "lifetimes2") due to 1 previous error
+error: could not compile `exercises` (bin "lifetimes1") due to 1 previous error
+error: could not compile `exercises` (bin "iterators4") due to 1 previous error
+error: could not compile `exercises` (bin "iterators5") due to 2 previous errors
+error: could not compile `exercises` (bin "strings4" test) due to 10 previous errors
 error: could not compile `exercises` (bin "structs2" test) due to 7 previous errors
 error: could not compile `exercises` (bin "structs1" test) due to 7 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "iterators4") due to 1 previous error
-error: could not compile `exercises` (bin "strings4" test) due to 10 previous errors
-error: could not compile `exercises` (bin "using_as") due to 1 previous error
-error: could not compile `exercises` (bin "strings2" test) due to 1 previous error
 error: could not compile `exercises` (bin "strings3" test) due to 3 previous errors
-error: could not compile `exercises` (bin "from_str" test) due to 1 previous error
 error: could not compile `exercises` (bin "iterators2") due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "using_as") due to 1 previous error
+error: could not compile `exercises` (bin "from_str" test) due to 1 previous error
+error: could not compile `exercises` (bin "strings2" test) due to 1 previous error
 error: could not compile `exercises` (bin "strings1" test) due to 1 previous error
-error: could not compile `exercises` (bin "from_into" test) due to 1 previous error
-error: could not compile `exercises` (bin "enums2") due to 5 previous errors
-error: could not compile `exercises` (bin "primitive_types5") due to 2 previous errors
-error: could not compile `exercises` (bin "quiz3" test) due to 1 previous error
 error: could not compile `exercises` (bin "errors5" test) due to 3 previous errors
-error: could not compile `exercises` (bin "enums1") due to 5 previous errors
+error: could not compile `exercises` (bin "vecs2" test) due to 1 previous error; 2 warnings emitted
+error: could not compile `exercises` (bin "quiz3" test) due to 1 previous error
+error: could not compile `exercises` (bin "from_into" test) due to 1 previous error
 error: could not compile `exercises` (bin "macros2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "primitive_types5") due to 2 previous errors
+error: could not compile `exercises` (bin "errors3" test) due to 1 previous error
 error: could not compile `exercises` (bin "vecs1" test) due to 1 previous error
 error: could not compile `exercises` (bin "macros1" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "errors3" test) due to 1 previous error
-error: could not compile `exercises` (bin "primitive_types3") due to 1 previous error
-error: could not compile `exercises` (bin "vecs2" test) due to 1 previous error; 2 warnings emitted
 error: could not compile `exercises` (bin "lifetimes3" test) due to 2 previous errors
-error: could not compile `exercises` (bin "lifetimes2" test) due to 1 previous error
+error: could not compile `exercises` (bin "primitive_types3") due to 1 previous error
+error: could not compile `exercises` (bin "enums2") due to 5 previous errors
 error: could not compile `exercises` (bin "primitive_types2") due to 2 previous errors
+error: could not compile `exercises` (bin "lifetimes2" test) due to 1 previous error
 error: could not compile `exercises` (bin "errors2" test) due to 1 previous error
-error: could not compile `exercises` (bin "box1") due to 1 previous error
+error: could not compile `exercises` (bin "enums1") due to 5 previous errors
 error: could not compile `exercises` (bin "primitive_types1") due to 1 previous error
 error: could not compile `exercises` (bin "lifetimes1" test) due to 1 previous error
 error: could not compile `exercises` (bin "options3") due to 1 previous error
-error: could not compile `exercises` (bin "options2") due to 3 previous errors
-error: could not compile `exercises` (bin "as_ref_mut") due to 2 previous errors; 1 warning emitted
 error: could not compile `exercises` (bin "try_from_into") due to 3 previous errors
-error: could not compile `exercises` (bin "iterators4" test) due to 1 previous error
-error: could not compile `exercises` (bin "iterators5" test) due to 2 previous errors
-error: could not compile `exercises` (bin "traits5") due to 3 previous errors
-error: could not compile `exercises` (bin "traits4") due to 5 previous errors
+error: could not compile `exercises` (bin "options2") due to 3 previous errors
 error: could not compile `exercises` (bin "options1") due to 1 previous error
-error: could not compile `exercises` (bin "traits3") due to 2 previous errors
-error: could not compile `exercises` (bin "errors1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "iterators4" test) due to 1 previous error
+error: could not compile `exercises` (bin "traits5") due to 3 previous errors
+error: could not compile `exercises` (bin "iterators5" test) due to 2 previous errors
+error: could not compile `exercises` (bin "traits4") due to 5 previous errors
 error: could not compile `exercises` (bin "using_as" test) due to 1 previous error
-error: could not compile `exercises` (bin "iterators3" test) due to 2 previous errors; 4 warnings emitted
-error: could not compile `exercises` (bin "iterators2" test) due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "box1") due to 1 previous error
+error: could not compile `exercises` (bin "traits3") due to 2 previous errors
 error: could not compile `exercises` (bin "if3") due to 1 previous error
-error: could not compile `exercises` (bin "enums2" test) due to 5 previous errors
-error: could not compile `exercises` (bin "if2") due to 1 previous error
+error: could not compile `exercises` (bin "iterators3" test) due to 2 previous errors; 4 warnings emitted
 error: could not compile `exercises` (bin "quiz2" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "quiz1" test) due to 4 previous errors; 1 warning emitted
 error: could not compile `exercises` (bin "traits1") due to 1 previous error
-error: could not compile `exercises` (bin "iterators1" test) due to 6 previous errors; 14 warnings emitted
+error: could not compile `exercises` (bin "as_ref_mut") due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "iterators2" test) due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "if2") due to 1 previous error
+error: could not compile `exercises` (bin "quiz1" test) due to 4 previous errors; 1 warning emitted
 error: could not compile `exercises` (bin "if1") due to 1 previous error
 error: could not compile `exercises` (bin "primitive_types6" test) due to 1 previous error
+error: could not compile `exercises` (bin "iterators1" test) due to 6 previous errors; 14 warnings emitted
 error: could not compile `exercises` (bin "primitive_types5" test) due to 2 previous errors
-error: could not compile `exercises` (bin "enums1" test) due to 5 previous errors
-error: could not compile `exercises` (bin "primitive_types4" test) due to 1 previous error
-error: could not compile `exercises` (bin "threads2") due to 1 previous error; 1 warning emitted
 error: could not compile `exercises` (bin "threads3") due to 1 previous error
-error: could not compile `exercises` (bin "cow1" test) due to 3 previous errors
-error: could not compile `exercises` (bin "primitive_types3" test) due to 1 previous error
+error: could not compile `exercises` (bin "threads2") due to 1 previous error; 1 warning emitted
 error: could not compile `exercises` (bin "threads1") due to 1 previous error
-error: could not compile `exercises` (bin "hashmaps1") due to 2 previous errors
+error: could not compile `exercises` (bin "primitive_types4" test) due to 1 previous error
+error: could not compile `exercises` (bin "errors1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "enums2" test) due to 5 previous errors
+error: could not compile `exercises` (bin "primitive_types3" test) due to 1 previous error
 error: could not compile `exercises` (bin "arc1") due to 2 previous errors
-error: could not compile `exercises` (bin "primitive_types2" test) due to 2 previous errors
+error: could not compile `exercises` (bin "enums1" test) due to 5 previous errors
+error: could not compile `exercises` (bin "hashmaps1") due to 2 previous errors
 error: could not compile `exercises` (bin "primitive_types1" test) due to 1 previous error
-error: could not compile `exercises` (bin "generics1") due to 1 previous error
+error: could not compile `exercises` (bin "primitive_types2" test) due to 2 previous errors
 error: could not compile `exercises` (bin "move_semantics5") due to 2 previous errors
-error: could not compile `exercises` (bin "box1" test) due to 1 previous error
+error: could not compile `exercises` (bin "generics1") due to 1 previous error
+error: could not compile `exercises` (bin "cow1" test) due to 3 previous errors
 error: could not compile `exercises` (bin "options3" test) due to 1 previous error
-error: could not compile `exercises` (bin "functions5") due to 1 previous error
-error: could not compile `exercises` (bin "as_ref_mut" test) due to 2 previous errors; 1 warning emitted
 error: could not compile `exercises` (bin "move_semantics3") due to 1 previous error
+error: could not compile `exercises` (bin "try_from_into" test) due to 3 previous errors
 error: could not compile `exercises` (bin "options2" test) due to 5 previous errors
-error: could not compile `exercises` (bin "traits4" test) due to 5 previous errors
+error: could not compile `exercises` (bin "options1" test) due to 2 previous errors
 error: could not compile `exercises` (bin "traits5" test) due to 3 previous errors
 error: could not compile `exercises` (bin "move_semantics1") due to 1 previous error
-error: could not compile `exercises` (bin "options1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "traits4" test) due to 5 previous errors
+error: could not compile `exercises` (bin "box1" test) due to 1 previous error
 error: could not compile `exercises` (bin "traits3" test) due to 2 previous errors
-error: could not compile `exercises` (bin "try_from_into" test) due to 3 previous errors
-error: could not compile `exercises` (bin "if3" test) due to 1 previous error
 error: could not compile `exercises` (bin "traits1" test) due to 1 previous error
+error: could not compile `exercises` (bin "modules1") due to 1 previous error
+error: could not compile `exercises` (bin "if1" test) due to 1 previous error
 error: could not compile `exercises` (bin "modules3") due to 2 previous errors
 error: could not compile `exercises` (bin "if2" test) due to 1 previous error
+error: could not compile `exercises` (bin "if3" test) due to 1 previous error
+error: could not compile `exercises` (bin "as_ref_mut" test) due to 2 previous errors; 1 warning emitted
 error: could not compile `exercises` (bin "traits2" test) due to 1 previous error
 error: could not compile `exercises` (bin "modules2") due to 2 previous errors
-error: could not compile `exercises` (bin "if1" test) due to 1 previous error
-error: could not compile `exercises` (bin "macros4") due to 1 previous error
-error: could not compile `exercises` (bin "modules1") due to 1 previous error
-error: could not compile `exercises` (bin "threads2" test) due to 1 previous error; 1 warning emitted
 error: could not compile `exercises` (bin "threads3" test) due to 1 previous error
-error: could not compile `exercises` (bin "threads1" test) due to 1 previous error
+error: could not compile `exercises` (bin "macros4") due to 1 previous error
 error: could not compile `exercises` (bin "macros3") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "threads1" test) due to 1 previous error
+error: could not compile `exercises` (bin "threads2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "arc1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "hashmaps1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "tests3" test) due to 2 previous errors; 4 warnings emitted
